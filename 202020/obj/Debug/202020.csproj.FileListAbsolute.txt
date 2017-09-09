@@ -1,0 +1,10 @@
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\bin\Debug\202020.exe.config
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\bin\Debug\202020.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\bin\Debug\202020.pdb
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\202020.csprojResolveAssemblyReference.cache
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\_202020.Form1.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\_202020.Form2.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\_202020.Properties.Resources.resources
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\202020.csproj.GenerateResource.Cache
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\202020.exe
+c:\users\hrishi\documents\visual studio 2015\Projects\202020\202020\obj\Debug\202020.pdb
